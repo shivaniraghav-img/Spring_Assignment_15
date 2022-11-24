@@ -1,4 +1,4 @@
-package com.example.Spring_jdbc1.Entity;
+package com.example.Spring_jdbc2.Entity;
 
 public class Product {
 	private int Pid;
